@@ -61,7 +61,7 @@ while (contador< frutas.length){
     } else {
         cantidadFrutas2.sandia++;
     }
-    contador++
+    contador++;
 }
 
-console.log(cantidadFrutas2)
+console.log(cantidadFrutas2);
