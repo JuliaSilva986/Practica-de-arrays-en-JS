@@ -35,7 +35,7 @@ for (let i=0; i<frutas.length; i++){
     }
 }
 
-console.log(cantidadFrutas)
+console.log(cantidadFrutas);
 
 //usando while
 
@@ -45,7 +45,7 @@ let cantidadFrutas2={
     "platano":0,
     "piña":0,
     "sandia":0
-}
+};
 
 let contador=0;
 
